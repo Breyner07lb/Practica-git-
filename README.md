@@ -52,4 +52,4 @@ https://github.com/Breyner07lb/Practica-git-
 
 
 
-![Servidor Linux](https://www.google.com/imgres?q=imagen%20de%20linux&imgurl=https%3A%2F%2Fwww.ecna.es%2Fwp-content%2Fuploads%2F2024%2F02%2FLinux.jpg&imgrefurl=https%3A%2F%2Fwww.ecna.es%2F2024%2F02%2F28%2Flinux%2F&docid=_p4eVeZNzP_LeM&tbnid=LOkEd041NE5T5M&vet=12ahUKEwixoLnUx9qVAxUqSzABHflMLzoQnPAOegQIexAA..i&w=1000&h=400&hcb=2&ved=2ahUKEwixoLnUx9qVAxUqSzABHflMLzoQnPAOegQIexAA)
+![Servidor Linux](https://www.ecna.es/wp-content/uploads/2024/02/Linux.jpg)
